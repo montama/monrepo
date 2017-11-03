@@ -1,6 +1,8 @@
 <html>
 <head>bbb</head>
 <body>
-waiwai
+<?php
+echo date('Y”NmŒŽd“ú');
+?>
 </body>
 </html>
