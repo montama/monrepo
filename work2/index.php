@@ -1,6 +1,6 @@
 <html>
 <head>aaa</head>
 <body>
-waiwai
+<?php echo "HelloWorld" ?>
 </body>
 </html>
